@@ -24,7 +24,7 @@ const MobileSidebar = () => {
           <Menu />
         </Button>
       </SheetTrigger>
-      <SheetContent side="bottom" className="p-0">
+      <SheetContent side="bottom" className="p-1 text-white">
         <Sidebar />
       </SheetContent>
     </Sheet>
