@@ -1,6 +1,6 @@
 # SaaS AI - Software as a Service for Artificial Intelligence
 
-![SaaS AI Logo](./images/logo.png)
+![SaaS AI Logo]()
 
 SaaS AI is a cutting-edge Software as a Service (SaaS) platform that brings the power of Artificial Intelligence (AI) to your applications and projects. With a wide range of AI services and tools, SaaS AI aims to simplify the integration of AI capabilities, enabling developers and businesses to harness the potential of AI without the complexity of building everything from scratch.
 
