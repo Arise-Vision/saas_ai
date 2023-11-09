@@ -1,61 +1,36 @@
-# SaaS AI - Software as a Service for Artificial Intelligence
-
-![SaaS AI Logo]()
-
-SaaS AI is a cutting-edge Software as a Service (SaaS) platform that brings the power of Artificial Intelligence (AI) to your applications and projects. With a wide range of AI services and tools, SaaS AI aims to simplify the integration of AI capabilities, enabling developers and businesses to harness the potential of AI without the complexity of building everything from scratch.
-
-## Features
-
-- **AI Services**: SaaS AI provides a variety of pre-built AI services including natural language processing, image recognition, sentiment analysis, recommendation systems, and more.
-
-- **Easy Integration**: Seamlessly integrate AI capabilities into your applications using SaaS AI's APIs and SDKs, reducing development time and effort.
-
-- **Scalability**: SaaS AI is built on a robust and scalable infrastructure, ensuring that your AI-powered applications can handle varying levels of traffic and usage.
-
-- **Customization**: Tailor the AI services to your specific needs by fine-tuning models and adjusting parameters.
-
-- **User-Friendly Dashboard**: Monitor and manage your AI services, usage, and billing through an intuitive dashboard.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-Follow these steps to get started with SaaS AI:
+First, run the development server:
 
-1. **Sign Up**: Create an account on the [SaaS AI website](https://www.github.com) and obtain your API key.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-2. **Installation**: Install the SaaS AI SDK by running the following command:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-   ```bash
-   npm install 
-   ```
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Contributing
+## Learn More
 
-We welcome contributions from the community! If you're interested in improving SaaS AI, follow these steps:
+To learn more about Next.js, take a look at the following resources:
 
-1. Fork the repository and clone it to your local machine.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-  ```bash
-    git clone git@github.com:Arise-Vision/saas_ai.git
-  ```
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-2. Create a new branch for your feature or bug fix:
+## Deploy on Vercel
 
-   ```bash
-   git checkout -b feature/new-feature
-   ```
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-3. Make your changes, and write tests if necessary.
-
-4. Commit your changes and push them to your forked repository.
-
-5. Create a Pull Request targeting the `main` branch of the SaaS AI repository.
-
-## Support
-
-If you encounter any issues or have questions about using SaaS AI, please reach out to our support team at support@saasai.com or visit our [Support Page](https://www.github.com/)
-
-## License
-
-SaaS AI is released under the [MIT License](LICENSE).
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
